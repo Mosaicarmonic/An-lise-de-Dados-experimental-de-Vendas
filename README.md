@@ -2,4 +2,4 @@
 uma análise de dados fictícia.
 
 ## 1-Definindo quais Dados para serem analisados.
-![Blog](https://www.kaggle.com/datasets/yusufdelikkaya/online-sales-dataset/data)
+[Kaggle](https://www.kaggle.com/datasets/yusufdelikkaya/online-sales-dataset/data)
