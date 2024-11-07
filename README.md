@@ -1,5 +1,5 @@
 # Análise de Dados experimental de Vendas
-Nesse projeto, eu irei analisar 
+Nesse projeto, eu irei analisar dados artificiais de vendas comerciais, afim de definir quanto foi a venda total, quais produtos venderam mais e qual a tendência dessas vendas.
 ## 1-Definindo quais Dados para serem analisados.
 Como tenho poucos recursos para fazer uma coleta de dados própria, eu irei analisar dados já existente desse [link](https://www.kaggle.com/datasets/yusufdelikkaya/online-sales-dataset/data) do kaggle, onde os dados existentes nesse arquivo __online_sales_dataset.csv__ são dados de vendas anônimas e de livre acesso.
 ## 2-Configurando o arquivo no excel
