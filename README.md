@@ -7,4 +7,4 @@ Próximo passo que fiz é transcrever os dados de __online_sales_dataset.csv__ ,
 ### 2.1- Traduzindo informações
 Como as informações da tabela estavam em inglês, eu tive que traduzir as informações para PTBR, porém foi bem complicado traduzir todas as informações de uma tabela 17x49783, então filtrei quais palavras deveriam ser traduzidas, como os nomes do cabeçários das colunas e informações das mesmas , de coluna a coluna, alguns eu usando a fórmula =traduzir_EN_PT(). 
 ### 2.2- Limpando Dados
-Antes de fazer uma análise real, precisei consertar a formatação da tabela e eliminar algumas linhas que continham informações imprecisas.
+Antes de fazer uma análise real, precisei consertar a formatação da tabela e eliminar algumas linhas que continham informações imprecisas, eu também usei um **script.py** contindo na pasta **Gerador de IDs** para criar IDs faltosos na coluna "CustomerID".
