@@ -1,6 +1,5 @@
 # Análise de Dados experimental de Vendas
-   Uma análise de dados fictícia.
-
+Nesse projeto, eu irei analisar 
 ## 1-Definindo quais Dados para serem analisados.
 Como tenho poucos recursos para fazer uma coleta de dados própria, eu irei analisar dados já existente desse [link](https://www.kaggle.com/datasets/yusufdelikkaya/online-sales-dataset/data) do kaggle, onde os dados existentes nesse arquivo __online_sales_dataset.csv__ são dados de vendas anônimas e de livre acesso.
 ## 2-Configurando o arquivo no excel
